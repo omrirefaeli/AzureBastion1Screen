@@ -1,5 +1,5 @@
 # Motiation
-Does it bother you as well that when you want to RDP to an Azure Virtual Machine using "az bastion rdp", but for some reason it opens up on all your screens? yea.. 
+Does it bother you too that when you RDP to an Azure Virtual Machine using "az network bastion rdp", but for some reason it opens up on all your screens? yea.. Use this script to RDP with only 1 screen.
 
 # how to
 1. Download [AZ CLI](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
